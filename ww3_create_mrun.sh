@@ -6,6 +6,7 @@
   # Program to prepare the existent directory for the execution of WW3:#
   # - link file.ww3                                                    #
   # - copy and set up with the right start/end date ww3_shel.inp       #
+  #                                                                    #
   # Use:                                                               #
   # - set the variable "main_dir" and "input_dir" in the code          #
   # - run the program and write the selected start/end date            #

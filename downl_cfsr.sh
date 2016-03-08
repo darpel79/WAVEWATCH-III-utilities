@@ -9,10 +9,10 @@
   # USE:                                                               #
   # - select variable par and check the subregion info                 #
   # - select data source, cfsr (1979-2009) or cfsv2 (from April 2011   #
-  #   to July 2014                                                     #
+  #   to July 2014)                                                    #
   #                                                                    #
   #                                              Author: Dario Pelli   #
-  # Last update: 02-Feb-2016                                            #
+  # Last update: 02-Feb-2016                                           #
   #                                                                    #
   #********************************************************************#
 

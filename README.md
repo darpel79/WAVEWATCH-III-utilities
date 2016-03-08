@@ -21,6 +21,12 @@ Brief instructions are written within the files.
     Program to run sequential simulation with WW3.
     In this version a run should be already in execution.
 
+- ww3_del_time:
+    Program to delete the last time of the monthly ounf.nc.
+
+- monthly_mean:
+    Program to calculate montlhy mean of a chosen parameter.
+
 
 
     
